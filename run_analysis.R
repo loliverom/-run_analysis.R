@@ -1,3 +1,5 @@
+install.packages("reshape2")
+library(reshape2)
 filename <- "getdata_dataset.zip"
 
 ## Preparing the data :
